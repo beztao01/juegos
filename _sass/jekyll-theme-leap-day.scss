@@ -8,7 +8,10 @@ by Matt Graham
 @import "rouge-base16-dark";
 
 body {
+  font:14px/22px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* cambio de fuente
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  */
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
@@ -184,7 +187,10 @@ header {
   min-height: 76px;
 
   h1 {
+    /*
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    */
+    font: 40px/48px "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f3f3f3;
     text-shadow: 0px 2px 0px #235796;
     margin: 0px;
