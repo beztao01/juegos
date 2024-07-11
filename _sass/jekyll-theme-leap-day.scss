@@ -81,7 +81,10 @@ strong {
 .wrapper {
   width:650px;
   margin:0 auto;
+  /* se cambia el position
   position:relative;
+  */
+  position:absolute;
 }
 
 section img {
@@ -275,7 +278,10 @@ header {
 
   ul {
     list-style:none;
+    height:30px;
+    /* cambio 
     height:40px;
+    */
     padding:0;
     float: left;
     margin-left:10px;
